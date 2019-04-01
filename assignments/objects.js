@@ -1,3 +1,4 @@
+/*
 // Let's get some practice writing a few objects for a new group of interns at a small business.
 
 // ==== Challenge 1: Writing Objects ==== 
@@ -130,24 +131,25 @@ const parent = {
 
 // Log the parent object's name
 
-console.log(parent.name);
+//console.log(parent.name);
 
 // Log the child's age
 
-console.log(parent.child.age);
+//console.log(parent.child.age);
 
 // Log the name and age of the grandchild
 
-console.log(parent.child.grandchild.name, parent.child.grandchild.age);
+//console.log(parent.child.grandchild.name, parent.child.grandchild.age);
 
 // Have the parent speak
 
-console.log(parent.sayHi());
+//console.log(parent.sayHi());
 
 // Have the child speak
 
-console.log(parent.child.sayHi());
+//console.log(parent.child.sayHi());
 
 // Have the grandchild speak
 
-console.log(parent.child.grandchild.sayHi());
+//console.log(parent.child.grandchild.sayHi());
+*/
